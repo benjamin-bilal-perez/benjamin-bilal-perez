@@ -3,3 +3,4 @@
 
 - 🌱 I’m currently learning HTML, CSS, TypeScript and PHP.
 - :martial_arts_uniform: I like to solve katas in codewars. Take a look at my account [here](https://www.codewars.com/users/benjaminPerez).
+- LinkedIn
